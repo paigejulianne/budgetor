@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Original Excel file (optional - remove if you want to track it)
+Budget.xlsx
+Budget.csv
+
+# Environment/Config (if you add sensitive configs later)
+.env
+config.local.php
